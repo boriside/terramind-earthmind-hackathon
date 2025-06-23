@@ -1,11 +1,18 @@
-# Climate Risks Checks with Earth Observation Foundation Models
+# Digital Twins for Real Estate and Environmental Risk
 
-A project, that connects earth observation foundation models to enable predictions for climate risks to real estate properties
+A project, that connects earth observation foundation models to enable predictions for climate risks to real estate properties.
+
+For a comprehensive real estate digital twin focused on environmental risks, we leverage both:
+TerraMind: As a data powerhouse that could fill data gaps, generate realistic future scenarios (e.g., what if this area experiences a 1-in-100-year flood based on new climate projections?).
+EarthMind: As the intelligence and interpretation layer. It would take the raw and generated earth observation data (from TerraMind or other sources), analyze it for specific environmental risks, and then present those risks in a human-interpretable format for the digital twin dashboard or for direct querying.
 
 ## Reference Repositories
 https://github.com/shuyansy/EarthMind
-
 https://github.com/IBM/terramind/tree/main
+
+## Articles
+https://insait.ai/insait-unveils-earthmind-a-pioneering-ai-model-for-earth-observation/
+
 
 
 ## Pipeline Workflow:
